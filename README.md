@@ -3,6 +3,10 @@ Mini Chatbot using flask
 
 <h2>Demo</h2>
 
+
+https://github.com/HamaRegaya/Mini-ChatGPT/assets/80206931/a6e30839-9990-4bc3-9ca6-edcebc3d46c1
+
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Create a Virtual Environment</p>
